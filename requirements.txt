@@ -1,0 +1,4 @@
+Flask
+gunicorn
+mysqlclient
+flask-mysqldb==2.4.1
